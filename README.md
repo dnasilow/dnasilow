@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dominik
-- 👀 I’m interested in Machine learning, Robotics, and Controls
+- 👀 I’m interested in Machine learning, Robotics, and Controls System
 - 🌱 I’m currently learning Robot learning from Columbia Unoversity
-- 💞️ I’m looking to collaborate on Supervised learning to find most efficient ways of robot movement and path trajectory
+- 💞️ I’m looking to collaborate on Supervised learning to find most efficient ways of movement robot and path trajectory
 - 📫 You can reach via email: d.nasilowski@columbia.com
 
 <!---
